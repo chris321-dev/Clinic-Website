@@ -543,9 +543,6 @@ footer .grid111 {
 }
 
 @media (max-width: 500px) {
-    .Top {
-        margin-top: 96px;
-    }
     .Services .grid111 {
         grid-template-columns: 1fr;
     }

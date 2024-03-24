@@ -516,6 +516,9 @@ footer .grid111 {
 }
 
 @media (max-width: 700px) {
+     .Top .container111{
+        padding: 15vh 0 0 !important;
+    }
     .grid111 {
         grid-template-columns: 1fr;
     }
@@ -635,6 +638,11 @@ footer .grid111 {
         align-items:center;
         transition:all .2s;
     }
+
+ .Top .container111{
+        padding: 20vh 0;
+    }
+     
 
     .spinner-border{
         height:50px;
